@@ -1,5 +1,7 @@
 # Parentheses-check-program
 It's a technical task given by Mymoria company.
+
+#### Task:
 For a given array of strings which checks the proper amount of parentheses and produce 'Yes' into output if it has correct parentheses,
 if not 'No' into an array of output.
 
